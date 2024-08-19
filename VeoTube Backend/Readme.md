@@ -1,1 +1,1 @@
-This is a vedio Striming app backend
+This is a vedio Streaming app backend
